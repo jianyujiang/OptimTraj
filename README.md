@@ -71,3 +71,7 @@ If you are interested in contributing, here are a few possible things to do:
 - [__Will Wehner__](https://github.com/wwehner) implemented analytic gradients in the 4th-order Runge-Kutta method.
 
 - [__Conrad McGreal__](https://github.com/cjmcgreal) contributed the minimum-time 3D quadrotor example.
+## add
+- GPOPS http://www.gpops2.com/
+- PSOPT http://www.psopt.org/
+- nonlinear programming FMINCON SNOPT IPOPT
