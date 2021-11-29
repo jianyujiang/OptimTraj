@@ -75,3 +75,4 @@ If you are interested in contributing, here are a few possible things to do:
 - GPOPS http://www.gpops2.com/
 - PSOPT http://www.psopt.org/
 - nonlinear programming FMINCON SNOPT IPOPT
+- practical methods for optimal control and estimation using nonlinear programming John T.Betts,2011,advances in design and control,SIAM
